@@ -1,5 +1,5 @@
-# Axon quantification
-Repository for bouton elimination and axon skeletonization, as well as axon statistics calculation.
+# Axon quantification algorithm
+- Used in `Convergence and Segregation of Excitatory and Inhibitory Afferents in the Paraventricular Thalamic Nucleus` paper
 
 ## Requirements
 
