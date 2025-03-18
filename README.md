@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/949877933.svg)](https://doi.org/10.5281/zenodo.15044567)
+
+
 # Axon quantification algorithm
 - Used in `Convergence and Segregation of Excitatory and Inhibitory Afferents in the Paraventricular Thalamic Nucleus` paper
 
